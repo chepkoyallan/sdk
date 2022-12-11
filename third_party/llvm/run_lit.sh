@@ -1,0 +1,1 @@
+echo "run_lit.sh should not be used." && false
